@@ -1,4 +1,6 @@
-#How to use
+A collection place for any Aseprite scripts I write.
+
+# How to use
 Currently there is only one script: Exporting groups as texture layers.
 ![Aseprite menu showing the Open Scripts Folder button](/docs/export_groups_example.jpg?raw=true)
 
