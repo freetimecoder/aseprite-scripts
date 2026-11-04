@@ -13,4 +13,5 @@ Useful for working on texture sheets that have base color, normal or orm layers.
 
 # Installation
 Copy the contents of the scripts folder into Aseprite's scripts folder. To quickly find it go to File -> Scripts -> Open Scripts Folder
+
 ![Aseprite menu showing the Open Scripts Folder button](/docs/scripts_folder.jpg?raw=true "Easy Access")
